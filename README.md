@@ -12,4 +12,4 @@
 在公司增设销售连锁店、增加生产基地后，为完成每日运输任务，请你为公司确定小货车的最小需求量，及各车辆的调运方案。
 
 ## 附录数据
-![image](url)
+![image](https://github.com/Aplicity/prok_distribution/blob/master/images/appendix_data_01.png)
